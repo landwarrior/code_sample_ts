@@ -1,0 +1,37 @@
+{
+  "test": [
+    {
+      "id": 1,
+      "name": "test1"
+    },
+    {
+      "id": 2,
+      "name": "test2"
+    },
+    {
+      "id": 3,
+      "name": "test3"
+    }
+  ],
+  "test2": {
+    "code": 200,
+    "results": [
+      {
+        "id": 100,
+        "name": "hoge"
+      },
+      {
+        "id": 101,
+        "name": "fuga"
+      },
+      {
+        "id": 102,
+        "name": "foo"
+      },
+      {
+        "id": 103,
+        "name": "bar"
+      }
+    ]
+  }
+}
