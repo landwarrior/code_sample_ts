@@ -33,5 +33,31 @@
         "name": "bar"
       }
     ]
-  }
+  },
+  "users": [
+    {
+      "id": 1,
+      "firstname": "太郎",
+      "lastname": "佐藤",
+      "age": 31
+    },
+    {
+      "id": 2,
+      "firstname": "ほむら",
+      "lastname": "暁美",
+      "age": 32
+    },
+    {
+      "id": 3,
+      "firstname": "次郎",
+      "lastname": "斎藤",
+      "age": 33
+    },
+    {
+      "id": 4,
+      "firstname": "まどか",
+      "lastname": "鹿目",
+      "age": 34
+    }
+  ]
 }
